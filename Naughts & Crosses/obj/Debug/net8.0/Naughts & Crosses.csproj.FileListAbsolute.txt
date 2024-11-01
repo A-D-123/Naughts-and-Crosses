@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\bin\Debug\net8.0\Naughts & Crosses.exe
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\bin\Debug\net8.0\Naughts & Crosses.deps.json
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\bin\Debug\net8.0\Naughts & Crosses.runtimeconfig.json
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\bin\Debug\net8.0\Naughts & Crosses.dll
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\bin\Debug\net8.0\Naughts & Crosses.pdb
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\obj\Debug\net8.0\Naughts & Crosses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\obj\Debug\net8.0\Naughts & Crosses.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\obj\Debug\net8.0\Naughts & Crosses.AssemblyInfo.cs
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\obj\Debug\net8.0\Naughts & Crosses.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\obj\Debug\net8.0\Naughts & Crosses.sourcelink.json
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\obj\Debug\net8.0\Naughts & Crosses.dll
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\obj\Debug\net8.0\refint\Naughts & Crosses.dll
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\obj\Debug\net8.0\Naughts & Crosses.pdb
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\obj\Debug\net8.0\Naughts & Crosses.genruntimeconfig.cache
+C:\Users\danie\Documents\Visual Studio 2022\Projects\Naughts & Crosses\obj\Debug\net8.0\ref\Naughts & Crosses.dll
