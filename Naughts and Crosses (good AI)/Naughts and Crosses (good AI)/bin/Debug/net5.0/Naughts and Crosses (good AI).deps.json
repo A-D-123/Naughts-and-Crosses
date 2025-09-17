@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Naughts and Crosses (good AI)/1.0.0": {
+        "runtime": {
+          "Naughts and Crosses (good AI).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Naughts and Crosses (good AI)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

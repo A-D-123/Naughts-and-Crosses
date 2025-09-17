@@ -1,0 +1,16 @@
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\obj\Debug\net5.0\Naughts and Crosses (good AI).csproj.AssemblyReference.cache
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\obj\Debug\net5.0\Naughts and Crosses (good AI).GeneratedMSBuildEditorConfig.editorconfig
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\obj\Debug\net5.0\Naughts and Crosses (good AI).AssemblyInfoInputs.cache
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\obj\Debug\net5.0\Naughts and Crosses (good AI).AssemblyInfo.cs
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\obj\Debug\net5.0\Naughts and Crosses (good AI).csproj.CoreCompileInputs.cache
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\bin\Debug\net5.0\Naughts and Crosses (good AI).exe
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\bin\Debug\net5.0\Naughts and Crosses (good AI).deps.json
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\bin\Debug\net5.0\Naughts and Crosses (good AI).runtimeconfig.json
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\bin\Debug\net5.0\Naughts and Crosses (good AI).runtimeconfig.dev.json
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\bin\Debug\net5.0\Naughts and Crosses (good AI).dll
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\bin\Debug\net5.0\ref\Naughts and Crosses (good AI).dll
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\bin\Debug\net5.0\Naughts and Crosses (good AI).pdb
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\obj\Debug\net5.0\Naughts and Crosses (good AI).dll
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\obj\Debug\net5.0\ref\Naughts and Crosses (good AI).dll
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\obj\Debug\net5.0\Naughts and Crosses (good AI).pdb
+P:\Naughts and Crosses (good AI)\Naughts and Crosses (good AI)\obj\Debug\net5.0\Naughts and Crosses (good AI).genruntimeconfig.cache
